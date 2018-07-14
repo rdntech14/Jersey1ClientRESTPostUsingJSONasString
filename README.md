@@ -1,7 +1,7 @@
-Jersey1RESTClient - Develop REST api Client using Jersey 1 api to invoke GET/PUT/POST request
+Jersey1RESTClient - Develop REST api Client using Jersey 1 api to invoke GET/PUT/POST request + JSON body is sent as String
 =====
 
-This example demonstrate how to create REST client using Jersey 1 api 
+This example demonstrate how to create REST client using Jersey 1 api and send POST request with **JSON body as String**
 
 Prerequisite :
 
