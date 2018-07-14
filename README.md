@@ -3,9 +3,13 @@ Jersey1RESTClient - Develop REST api Client using Jersey 1 api to invoke GET/PUT
 
 This example demonstrate how to create REST client using Jersey 1 api and send POST request with **JSON body as String**
 
-Prerequisite :
 
-There is rest api service jar under folder REST.jar, execute jar so it can produce JSON response.
+**Prerequisite :**
+
+Please download rest jar from 
+*https://github.com/rdntech14/RESTWebServiceJar*
+
+This is a REST web service should be executing on local machine and return result in JSON format.
 
 ```
 java -jar rest.jar
